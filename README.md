@@ -1,19 +1,35 @@
-# event-management-system-JSP-HTML
+# Vishwas Events
 
-Event Management System
-The Event Management System is built with JSP, HTML, CSS, and Bootstrap. This project helps in creating, updating, and managing events efficiently with a MySQL database.
+Welcome to **Vishwas Events**, an event management system designed to help you create, update, and manage events efficiently. This project is built using Java Server Pages (JSP), HTML, CSS, and Bootstrap, and interacts with a MySQL database.
 
-Features
+## Features
 
-Add new events
-Edit existing events
-Delete events
-View all events
+- **Create Events**: Add new events with details such as name, date, location, and description.
+- **Edit Events**: Modify existing event details.
+- **Delete Events**: Remove events that are no longer needed.
+- **View Events**: Display a list of all events with their details.
 
-Installation
+## Table of Contents
 
-Prerequisites
-Java Development Kit (JDK)
-Apache Tomcat server
-MySQL database
-IDE (e.g., Eclipse, IntelliJ IDEA)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+### Prerequisites
+
+- Java Development Kit (JDK)
+- Apache Tomcat server
+- MySQL database
+- IDE like Eclipse or IntelliJ IDEA
+
+### Steps
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/vishwas-events.git
+   cd vishwas-events
