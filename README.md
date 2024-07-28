@@ -18,9 +18,4 @@ Welcome to the **Event Management System**, designed to help you create, update,
 - MySQL database
 - IDE like Eclipse or IntelliJ IDEA
 
-### Steps
-
-1. **Clone the Repository**
-
-   ```bash
    
